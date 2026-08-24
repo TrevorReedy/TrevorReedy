@@ -21,7 +21,7 @@ I like the unglamorous parts — correct edge cases, real test coverage, and REA
 tell you what a thing *does* before they tell you how to install it.
 
 I just finished my CS capstone (a PHP/Docker CRM, 4-person team) August 2026
-[FinalsCombatSim](https://github.com/TrevorReedy/FinalsCombatSim).
+[CRM Capstone](https://github.com/TrevorReedy/CS_Capstone_CRM).
 
 ---
 
