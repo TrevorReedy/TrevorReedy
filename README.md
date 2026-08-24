@@ -61,26 +61,3 @@ Just finished my CS capstone (a PHP/Docker CRM, 4-person team)
 | **[Whimsical Weather](https://github.com/TrevorReedy/Whimsical_Weather)** 🌦 | Native Android weather app. | Kotlin, Jetpack |
 
 ---
-
-### 🐍 Watch a snake eat my productivity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrevorReedy/TrevorReedy/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TrevorReedy/TrevorReedy/output/github-snake.svg">
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/TrevorReedy/TrevorReedy/output/github-snake.svg">
-</picture>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img height="165" alt="Trevor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TrevorReedy&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorReedy&layout=compact&hide_border=true&theme=transparent&langs_count=8">
-</p>
-
----
-
-<p align="center">
-  <sub>Open to Summer 2027 SWE internships and new-grad roles. If you've got a hard problem and a whiteboard, I'm listening.</sub>
-</p>
