@@ -10,7 +10,10 @@
   <a href="mailto:trevinator001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+
+
 ---
+## OPEN TO SUMMER 2027 SWE INTERNSHIPS AND NEW GRAD ROLES ##
 
 ### 🧭 The short version
 
