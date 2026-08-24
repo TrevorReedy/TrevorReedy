@@ -53,7 +53,7 @@ Just finished my CS capstone (a PHP/Docker CRM, 4-person team)
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Mobile Sentrix Price Tool](https://github.com/TrevorReedy/mobile_sentrix-price-tool)** 🏪 | Chrome extension that injects live repair pricing, a quote calculator, and per-device notes into a parts supplier's storefront. **Used every day at my repair franchise** and [published on the Chrome Web Store](https://chromewebstore.google.com/detail/mobile-sentrix-cpr-repair/fmhfclkjnbjndcidfojhdomlnpljaekf). | JS, Chrome MV3 |
+| **[Mobile Sentrix Price Tool](https://github.com/TrevorReedy/mobile_sentrix-price-tool)** 🏪 | Chrome extension that injects live repair pricing, a quote calculator, and per-device notes into a parts supplier's storefront. **Used every day by me and my coworkers at my tech repair job** and [published on the Chrome Web Store](https://chromewebstore.google.com/detail/mobile-sentrix-cpr-repair/fmhfclkjnbjndcidfojhdomlnpljaekf). | JS, Chrome MV3 |
 | **[FinalsCombatSim](https://github.com/TrevorReedy/FinalsCombatSim)** 🎯 | Weapon-vs-weapon combat simulator for *THE FINALS* — canvas playback, Monte-Carlo duel stats, and a Web Worker cross-analysis heatmap. **[Live demo →](https://trevorreedy.github.io/FinalsCombatSim/)** | JS, Canvas, Web Workers |
 | **[Go Game Engine](https://github.com/TrevorReedy/GO_Game_Engine)** ⚫⚪ | Desktop Go with rule-accurate captures, territory detection, and correct Japanese scoring — backed by a real unit test suite. | Java, Swing, Maven |
 | **[ZigGit](https://github.com/TrevorReedy/ZigGit)** 🦎 | A git wrapper for people who freeze up at `git rebase`. Smart add/commit/preview/push with plain-English output. | Zig |
