@@ -20,7 +20,7 @@ My repos are mostly things I actually wanted to exist: a Chrome extension that d
 I like the unglamorous parts — correct edge cases, real test coverage, and README files that
 tell you what a thing *does* before they tell you how to install it.
 
-Just finished my CS capstone (a PHP/Docker CRM, 4-person team)
+I just finished my CS capstone (a PHP/Docker CRM, 4-person team) August 2026
 [FinalsCombatSim](https://github.com/TrevorReedy/FinalsCombatSim).
 
 ---
