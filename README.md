@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Trevor 👋</h1>
 
 <p align="center">
-  <em>CS student at Metropolitan State University (St. Paul) — I build tools that make annoying things less annoying.</em>
+  <em>CS Graduate from Metropolitan State University (St. Paul) — I build tools that make annoying things less annoying.</em>
 </p>
 
 <p align="center">
