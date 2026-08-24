@@ -14,7 +14,7 @@
 
 ### 🧭 The short version
 
-I'm a computer science student heading toward software engineering, and I learn by shipping.
+I'm a computer science graduate heading toward software engineering, and I learn by shipping.
 My repos are mostly things I actually wanted to exist: a Chrome extension that does repair-shop price calculations for my current role, a git extension tool for people who find git terrifying, and a combat simulator for a video game I play too much.
 
 I like the unglamorous parts — correct edge cases, real test coverage, and README files that
